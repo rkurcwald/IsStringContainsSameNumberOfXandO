@@ -15,14 +15,14 @@ XO("zzoo") => false
   
   ---  
 ## POLSKA WERSJA  
-SprawdŸ czy string zawiera tak¹ sam¹ iloœæ znaku 'x' jak znaku 'o'.  
-Metoda musi zwracaæ wartoœæ boolowsk¹ (true/false) niezale¿nie od wielkoœci znaku.  
-Wyraz mo¿e zawieraæ dowolne znaki.  
+SprawdÅº czy string zawiera takÄ… samÄ… iloÅ›Ä‡ znaku 'x' jak znaku 'o'.  
+Metoda musi zwracaÄ‡ wartoÅ›Ä‡ boolowskÄ… (true/false) niezaleÅ¼nie od wielkoÅ›ci znaku.  
+Wyraz moÅ¼e zawieraÄ‡ dowolne znaki.  
   
-Przyk³adowe wejœcia/wyjœcia:  
+PrzykÅ‚adowe wejÅ›cia/wyjÅ›cia:  
 XO("ooxx") => true  
 XO("xooxx") => false  
 XO("ooxXm") => true  
-XO("zpzpzpp") => true // kiedy nie wystêpuje 'x' i 'o' program zwraca wartoœæ true  
+XO("zpzpzpp") => true // kiedy nie wystÄ™puje 'x' i 'o' program zwraca wartoÅ›Ä‡ true  
 XO("zzoo") => false  
   
