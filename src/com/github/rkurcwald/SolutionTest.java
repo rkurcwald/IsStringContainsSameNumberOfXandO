@@ -27,7 +27,7 @@ public class SolutionTest {
     
     @Test
     public void testSomething5() {
-      assertEquals(false, XO.getXO("XxxxooO"));
+      assertEquals(false, XO.getXO("xxxxooO"));
     }
     
     @Test
